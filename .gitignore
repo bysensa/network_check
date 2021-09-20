@@ -14,5 +14,7 @@ doc/api/
 # vscode
 .vscode
 
-#
+# IntelliJ Idea
+.idea
+
 # analysis_options.yaml
